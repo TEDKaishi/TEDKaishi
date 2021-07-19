@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TEDKaishi
+- 👀 I’m interested in natural language processing, machine learning.
